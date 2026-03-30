@@ -1,15 +1,15 @@
 <h1 align="center">안녕하세요 👋</h1>
 
 <p align="center">
-  <em>엔터프라이즈 애플리케이션 개발자 · 안정적이고 효율적인 시스템을 추구합니다</em>
+  <em>데스크탑 애플리케이션 소프트웨어 개발자 · 안정적이고 효율적인 시스템을 추구합니다</em>
 </p>
 
 ---
 
-## 🙋 About Me
+## 🙋 자기소개
 
-- 💼 **윈도우 데스크톱 & 데이터베이스 시스템** 중심의 엔터프라이즈 소프트웨어 개발자
-- 🛠️ **.NET Framework** 및 **C# / Java** 기반의 안정적인 애플리케이션 개발
+- 💼 **윈도우 데스크톱 & 데이터베이스 시스템** 중심의 데스크탑 애플리케이션 소프트웨어 개발자
+- 🛠️ C#(.NET Framework) / Java** 기반의 안정적인 애플리케이션 개발
 - 🗄️ **SQL Server, Oracle, Tibero** 등 다양한 데이터베이스 환경 경험
 - 📌 현재 시스템 성능 개선 및 유지보수성 향상에 집중하고 있습니다
 
@@ -43,9 +43,11 @@
 ## 📊 GitHub 통계
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=namjoonjo&show_icons=true&theme=default&hide_border=true&count_private=true&locale=kr" height="150"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namjoonjo&layout=compact&theme=default&hide_border=true&langs_count=6" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=namjoonjo&theme=default&hide_border=true&date_format=Y.n.j&locale=ko" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=namjoonjo&theme=default" width="100%"/>
 </p>
 
 ---
